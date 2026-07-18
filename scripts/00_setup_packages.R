@@ -1,0 +1,12 @@
+install.packages(c(
+  "tidyverse",
+  "janitor",
+  "skimr",
+  "here",
+  "lubridate",
+  "ggthemes",
+  "viridis",
+  "patchwork",
+  "broom",
+  "gt"
+))
